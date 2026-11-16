@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Questlens
+## Notes: Target a mob to see which of your quests it counts toward and how many more you need. /ql
+## Version: 1.2
+## SavedVariables: QuestlensDB
+
+Questlens.lua

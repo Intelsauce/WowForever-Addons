@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Coinpurse
+## Notes: Shows your gold on screen with session/daily change, gold per hour and all your characters' gold. Drag to move, right-click for options. /cp
+## Version: 1.0
+## SavedVariables: CoinpurseDB
+## OptionalDeps: Goldsight
+
+Coinpurse.lua

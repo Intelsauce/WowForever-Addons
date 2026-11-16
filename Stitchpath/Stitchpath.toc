@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Stitchpath
+## Notes: Levels your Tailoring the cheapest way: what to craft now, the Forever route 1-300, a shopping list and where to find everything. /stp or the minimap spool.
+## Version: 1.0
+## SavedVariables: StitchpathDB
+## OptionalDeps: Goldsight
+## IconTexture: Interface\AddOns\Stitchpath\media\icon
+
+Data.lua
+Logic.lua
+Stitchpath.lua

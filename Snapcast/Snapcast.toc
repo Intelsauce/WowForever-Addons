@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Snapcast
+## Notes: Snap blocks together to build macros, Scratch-style. 90 ready-made class macros. /snap or the minimap button.
+## Version: 1.8
+## IconTexture: Interface\AddOns\Snapcast\media\icon
+## SavedVariables: SnapcastDB
+
+Compile.lua
+Text.lua
+Library.lua
+Snapcast.lua

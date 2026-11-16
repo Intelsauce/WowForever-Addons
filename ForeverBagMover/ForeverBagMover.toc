@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Forever Bag Mover
+## Notes: Drag your bags anywhere and they stay there. Type /bagmover for options.
+## Version: 1.1
+## SavedVariables: ForeverBagMoverDB
+
+ForeverBagMover.lua

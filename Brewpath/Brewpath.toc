@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Brewpath
+## Notes: Levels your Alchemy the cheapest way: what to craft now, the Forever route 1-300, and a shopping list. /bp or the minimap flask.
+## Version: 1.5
+## SavedVariables: BrewpathDB
+## OptionalDeps: Goldsight
+## IconTexture: Interface\AddOns\Brewpath\media\icon
+
+Data.lua
+Logic.lua
+Brewpath.lua

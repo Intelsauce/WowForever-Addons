@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Goldsight
+## Notes: Values every drop: vendor or auction it, and what to throw away when your bags are full. /gs or the minimap coin.
+## Version: 1.2
+## SavedVariables: GoldsightDB
+## IconTexture: Interface\AddOns\Goldsight\media\icon
+
+Advisor.lua
+Core.lua
+Prices.lua
+Game.lua
+Room.lua
+UI.lua
